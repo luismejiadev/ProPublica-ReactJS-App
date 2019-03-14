@@ -1,6 +1,6 @@
 ## ProPublica React App
 
-![ProPublica App](../src/assets/images/ProPublicaApp.png)
+![ProPublica App](./src/assets/images/ProPublicaApp.png)
 
 This project was created with [create-react-app](https://github.com/facebook/create-react-app)
 
