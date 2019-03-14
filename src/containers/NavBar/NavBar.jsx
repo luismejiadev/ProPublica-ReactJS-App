@@ -3,7 +3,7 @@ import React from 'react';
 export default (content) => (
 <nav className="NavBar navbar navbar-expand-lg navbar-dark bg-dark">
   <a className="navbar-brand" href="/">
-    <img src={content.logo} className="AppLogo" alt="logo" />
+    <img src={content.logo} className="AppLogo" alt="logo" height="32" />
   </a>
   <button className="navbar-toggler" type="button" datatoggle="collapse"
       datatarget="#navbarSupportedContent" aria-controls="navbarSupportedContent"
