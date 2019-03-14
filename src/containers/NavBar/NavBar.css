@@ -1,0 +1,10 @@
+.NavBar{
+  margin-bottom: 20px;
+}
+.AppLogo{
+  width: 100px;
+  height: auto;
+}
+.SearchInput{
+  width: 100% !important;
+}

@@ -1,0 +1,15 @@
+.Map{
+  position: relative;
+  color: white;
+  background: red;
+  height: 40px;
+  width: 60px;
+  top: -20px;
+  left: -30px;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.MapContainer div{
+  height: 400px;
+}

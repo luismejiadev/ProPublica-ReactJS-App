@@ -1,0 +1,40 @@
+.CongressPeople .Content{
+  margin-top: 20px;
+}
+
+.PageLimit{
+  margin-bottom: 0;
+}
+.PageLimit select{
+  width: 75px;
+  display: inline-block;
+}
+
+.hide{
+  display: none;
+}
+
+.toggleFilter{
+  width: auto;
+  text-align: right;
+  height: 50px;
+  float: right;
+}
+.sidebar{
+  background: #eceff1;
+  padding: 10px;
+  border: 1px solid #eee;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 768px) {
+    .sidebar {
+      width: 100%;
+      height: auto;
+      top: -20px;
+      background: white;
+      box-shadow: none;
+      border: none;
+    }
+
+}

@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.BackGround{
+  position: absolute;
+  z-index: -1;
+  top: 25%;
+  left: 25%;
+  right: 25%;
+  width: 50%;
+  opacity: 0.20;
+  filter: alpha(opacity=20); /* For IE8 and earlier */
+}
+
+.Splash a{
+  text-decoration: none;
+  color: #222;
+}
+.Splash p{
+  margin-bottom: 20px;
+}
+
+.Splash .btn {
+  background: #343a40;
+  font-size: 24px;
+  box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+  border: none;
+  color: white;
+}

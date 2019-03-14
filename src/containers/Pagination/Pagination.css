@@ -1,0 +1,39 @@
+.page-item{
+  padding: 0;
+  margin-left: 0;
+  border: none;
+}
+
+.pagination{
+  margin: 2px 0;
+  white-space: nowrap;
+  text-align: right;
+  float:right;
+}
+
+.pagination>li>a, .pagination>li>span {
+  position: relative;
+  float: left;
+  padding: 6px 12px;
+  margin-left: -1px;
+  line-height: 1.42857143;
+  color: #337ab7;
+  text-decoration: none;
+  background-color: #fff;
+  border: 1px solid #ddd;
+}
+
+.ContentFooter{
+  display: table;
+  height: 40px;
+  margin-bottom: 50px;
+}
+
+.ContentFooter .text-left{
+  vertical-align: middle;
+  display: table-cell;
+}
+
+.ContentFooter .text-right{
+  display: table-cell;
+}

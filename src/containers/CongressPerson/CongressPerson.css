@@ -1,0 +1,55 @@
+.CongressPerson{
+  padding: 10px;
+  color: #676a6c;
+}
+.CongressPerson img{
+  margin-bottom: 15px;
+}
+.CongressPerson .content{
+  height: 100%;
+  min-height: 300px;
+  position: relative;
+  padding: 10px;
+  border: 1px solid #eee;
+  /*box-shadow: 0 2px 3px #ccc;*/
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+  background: #eceff1;
+}
+.CongressPerson .content:hover{
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+}
+.fa-republican:before,
+.fa-calendar-alt:before{
+  margin-right: 5px;
+}
+.CongressPerson h3{
+
+}
+.CongressPerson .info span{
+  display: block;
+}
+/*.SocialNetworks{
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 5px;
+}*/
+
+.CongressPerson a{
+  text-decoration: none;
+  border-bottom: 1px gray;
+  position: inherit;
+  margin: 5px 10px;
+  color: inherit;
+  /*border: 1px solid #d2d2d2;*/
+}
+
+
+.CongressPersonRoles {
+  text-align: left;
+}
+.CongressPersonRoles li{
+  list-style: none;
+  margin: 20px;
+  border: 1px black;
+}
