@@ -1,5 +1,7 @@
 ## ProPublica React App
 
+[Go to Live Demo](http://com.luismejia.propublica.s3-website-us-east-1.amazonaws.com/)
+
 ![ProPublica App](./src/assets/images/ProPublicaApp.png)
 
 This project was created with [create-react-app](https://github.com/facebook/create-react-app)
