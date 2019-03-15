@@ -84,3 +84,14 @@ https://www.youtube.com/watch?v=LRptz31H0vI
 (Geocoder)
 https://github.com/tomchentw/react-google-maps/issues/324
 
+Resources for deploy
+https://medium.com/ovrsea/deploy-automatically-a-react-app-on-amazon-s3-iam-within-minutes-da6cb0096d55
+
+# Deploy to S3
+
+
+```
+aws configure
+npm run build
+npm run deploy
+```
